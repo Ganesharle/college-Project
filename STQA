@@ -1,1 +1,19 @@
-stq
+https://chatgpt.com/share/6910d5bb-ebc8-8010-bc96-2331fd95c800;
+
+stqa bugzilla
+Steps to Reproduce:
+1. Open login page: http://the-internet.herokuapp.com/login
+2. Enter username: tomsmith
+3. Enter password: SuperSecretPassword!
+4. Click Login button
+
+Expected Result:
+User should be logged in successfully.
+
+Actual Result:
+System displays error message "Your username is invalid!"
+
+Severity: Major
+Priority: High
+
+celenium
